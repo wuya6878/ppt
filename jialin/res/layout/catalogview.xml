@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relaGrid"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/chooseImage"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:gravity="center" >
+    </ImageView>
+
+    <TextView
+        android:id="@+id/chooseText"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chooseImage"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="TextView"
+        android:textColor="#ffffff" >
+    </TextView>
+
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/firstMenuItem"
+        android:icon="@drawable/first"
+        android:title="@string/firstBtn">
+    </item>
+    <item
+        android:id="@+id/prevMenuItem"
+        android:icon="@drawable/prev"
+        android:title="@string/beforeBtn">
+    </item>
+    <item
+        android:id="@+id/nextMenuItem"
+        android:icon="@drawable/next"
+        android:title="@string/nextBtn">
+    </item>
+    <item
+        android:id="@+id/lastMenuItem"
+        android:icon="@drawable/last"
+        android:title="@string/afterBtn">
+    </item>
+
+</menu>

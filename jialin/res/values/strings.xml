@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">JIALIN</string>
+
+	<string name="back_exit">Hello，press again you can quit JIALIN！</string>
+	<string name="sync_error">data sync failed, please check the connection of your network and try again!</string>
+	<string name="sync_success">Data sync success!</string>
+	<string name="exit_tips">are you sure to exit?</string>
+	<string name="running_bg">Hide</string>
+	<string name="exit_app">exit</string>
+	<string name="dialog_ok">confirm</string>
+	<string name="dialog_cancel">Cancel</string>
+	<string name="city_prompt">select city</string>
+	<string name="city_searching">data of city</string>
+	<string name="getting">downloading please wait...</string>
+	<string name="no_data">sorry,no data found！</string>
+	<string name="ok">OK</string>
+	<string name="tip">tip</string>
+	<string name="get_nothing">processing failed,please check connection of network and try again！</string>
+	<string name="sync_noselect">please select a city first！</string>
+	<string name="author_info">author info</string>
+	<string name="about_me">Author:JiaLin Tian\nVersion:V1.0\nEMAIL:tian.86714@gmail.com\nQQ:200886714</string>
+	<string name="map_show">info：entering googlemap</string>
+	
+	
+	
+	<string name="one_searching">city search</string>
+	<string name="one_hint">enter city</string>
+
+
+
+
+
+	<string name="firstBtn">front page</string>
+    <string name="beforeBtn">previous page</string>
+    <string name="nextBtn">next page</string>
+    <string name="afterBtn">last page</string>
+	 <string name="first_error">sorry，no previous page found！</string>
+	 <string name="last_error">sorry，no next page found！</string>
+	
+    
+</resources>

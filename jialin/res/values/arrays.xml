@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="grid_title">
+		<item>data sync</item>
+		<item>local search</item>
+		<item>about JIALIN</item>
+		<item>exit</item>
+	    <item>others</item>
+	</string-array>
+	
+	<string-array name="sync_code">
+		<item>beijing</item>
+	</string-array>
+	<string-array name="sync_name">
+		<item>please choose</item>
+		<item>Beijing</item>
+	</string-array>
+		
+</resources>

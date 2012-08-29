@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="activity_title_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:text">@string/app_name</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">20dip</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+	<style name="Theme" parent="android:Theme" />
+
+	<style name="Theme.Dialog" parent="android:style/Theme.Dialog">
+		<item name="android:windowBackground">@drawable/shape_block</item>
+	</style>
+
+</resources>
